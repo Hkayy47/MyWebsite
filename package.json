@@ -1,0 +1,19 @@
+{
+  "name": "vogue-portfolio",
+  "version": "1.0.0",
+  "description": "Vogue-inspired black and white portfolio website",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server . -p 8080 -o",
+    "dev": "npx http-server . -p 8080 -o"
+  },
+  "keywords": [
+    "portfolio",
+    "vogue",
+    "website"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {}
+}
+
