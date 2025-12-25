@@ -87,8 +87,7 @@ setTimeout(loadGitHubProjects, 1500);
 // 2. Set up OAuth flow (recommended for production)
 
 // Option 1: Direct Token (paste your token here - expires in ~1 hour)
-const SPOTIFY_DIRECT_TOKEN = 'BQCT56vvankfK0VcK5vIPHkToTa-444GJ6VJj-rGsi80b4iEsoZxtzQoIKmfRhnWZBetRDp4_NuaCajQy4tuWCKTCIrytxJTwahnlHIq7fmDlDm6uDX34fVUC57M2afCcZ0Or77rNjlWz_sQ52Qc1QwHSHPOll0IEp2VTym9BYPEzkrg1qIef1CprVonFMnhQin1tCun8s00zaH2n4L8IFypnwG_cjoMopph-QrDe_LObQxsP7Y_jShO9udrak7c3-UvaJ7VqKhDVAfYJ-92_wl7LOkC-yT_XZ5jmYs7QPwg1wcIK0zwQ2V1wZ2tiIvYX-rvhcbP';
-
+const SPOTIFY_DIRECT_TOKEN = ''
 // Option 2: OAuth Setup (for when token expires)
 const SPOTIFY_CLIENT_ID = 'YOUR_SPOTIFY_CLIENT_ID'; // Update this if using OAuth
 const SPOTIFY_REDIRECT_URI = window.location.origin + window.location.pathname;
